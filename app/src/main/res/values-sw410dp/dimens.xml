@@ -1,0 +1,17 @@
+<resources>
+	<dimen name="download_txt_size">17.4sp</dimen>
+	<dimen name="home_item_txt_size">15.7sp</dimen>
+	<dimen name="home_above">19.6sp</dimen>
+	<dimen name="about_above_txt_size">17sp</dimen>
+	<dimen name="home_tag_line">14.9sp</dimen>
+	<dimen name="paste_txt_size">17.4sp</dimen>
+	<dimen name="btn_size">21.8sp</dimen>
+	<dimen name="about_version_txt_size">15.8sp</dimen>
+	<dimen name="with_without_water_mark">15.4sp</dimen>
+	<dimen name="about_us_tag_line">13.7sp</dimen>
+	<dimen name="about_below_txt_size">14.9sp</dimen>
+	<dimen name="home_below_ttxt">15.2sp</dimen>
+	<dimen name="about_us_title">17sp</dimen>
+	<dimen name="whatsapp_tab_txt_size">15.4sp</dimen>
+	<dimen name="home_app_title">19.5sp</dimen>
+</resources>

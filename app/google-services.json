@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993693596725",
+    "project_id": "all-in-one-saver1",
+    "storage_bucket": "all-in-one-saver1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993693596725:android:c4898e4260497a6810857c",
+        "android_client_info": {
+          "package_name": "com.manomar.allinonesaver1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993693596725-44n7dvjn0vlpjcpqn0ru4gve9lprikb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlLw28M_5oGlXlp6ApuiBws1qEPSJhVIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993693596725-44n7dvjn0vlpjcpqn0ru4gve9lprikb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
