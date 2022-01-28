@@ -10,7 +10,7 @@
     <string name="share_app_message">Hi Dude ❣,Download All In One Saver app for save all videos and photos It is helpful for me to save video.Now you have a golden chance Download and Enjoy</string>
 
 
-    <!--AdMob Id-->
+<!--AdMob Id-->
     <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
     <string name="admob_banner_ad" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
     <string name="admob_interstitial_ad" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
@@ -48,7 +48,7 @@
 
     <!--About Page-->
     <string name="version_name">Version</string>
-    <string name="version_tag"> Version 1.1</string>
+    <string name="version_tag"> Version 1.3</string>
     <string name="company_name_title">All In One Saver</string>
     <string name="company_tag_name">Code Mub</string>
     <string name="email_title">Email</string>
