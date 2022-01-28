@@ -1,6 +1,6 @@
 <resources>
 	<dimen name="download_txt_size">15sp</dimen>
-	<dimen name="home_item_txt_size">13sp</dimen>
+	<dimen name="home_item_txt_size">12.5sp</dimen>
 	<dimen name="home_above">16sp</dimen>
 	<dimen name="about_above_txt_size">15.5sp</dimen>
 	<dimen name="home_tag_line">13sp</dimen>

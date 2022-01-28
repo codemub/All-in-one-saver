@@ -33,12 +33,27 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/name"
             android:layout_centerHorizontal="true"
-            android:text="Made by CodeMub"
+            android:text="Made by codemub"
             android:textAlignment="center"
             android:gravity="center"
             android:textSize="18sp"
             android:textColor="@color/black"/>
 
+
     </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="290dp"
+        android:layout_marginEnd="11dp"
+        android:gravity="bottom|center_horizontal"
+        android:text="Version 1.2"
+        android:textColor="#88171414"
+        android:textSize="18sp" />
+
+
+    />
 </RelativeLayout>
 
