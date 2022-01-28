@@ -10,37 +10,37 @@ width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.
 
 <ul dir="auto">
 <li>
-<p dir="auto">✅ Download 9 application Video without watermark</p>
+<p dir="auto">Download 9 application Video without watermark</p>
 </li>
 <li>
-<p dir="auto">✅ Sharechat video saver without watermark</p>
+<p dir="auto">Sharechat video saver without watermark</p>
 </li>
 <li>
-<p dir="auto">✅ Instagram video,Reels and story saver</p>
+<p dir="auto">Instagram video,Reels and story saver</p>
 </li>
 <li>
-<p dir="auto">✅ Instagram private account image and video saver</p>
+<p dir="auto">Instagram private account image and video saver</p>
 </li>
 <li>
-<p dir="auto">✅ Tiktok video saver</p>
+<p dir="auto">Tiktok video saver</p>
 </li>
 <li>
-<p dir="auto">✅ Facebook Photos & Video savers</p>
+<p dir="auto">Facebook Photos & Video savers</p>
 </li>
 <li>
-<p dir="auto">✅ Whatsapp & Whatsapp business status saver</p>
+<p dir="auto">Whatsapp & Whatsapp business status saver</p>
 </li>
 <li>
-<p dir="auto">✅ Likee video saver</p>
+<p dir="auto">Likee video saver</p>
 </li>
 <li>
-<p dir="auto">✅ Twitter HQ Image & Video saver</p>
+<p dir="auto">Twitter HQ Image & Video saver</p>
 </li>
 <li>
-<p dir="auto">✅ Snack Video saver</p>
+<p dir="auto">Snack Video saver</p>
 </li>
 <li>
-<p dir="auto">✅ Roposo Video saver</p>
+<p dir="auto">Roposo Video saver</p>
 </ul>
 
 
