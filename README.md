@@ -45,7 +45,7 @@ width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.
 
 
 <img src="https://github.com/codemub/All-in-one-saver/blob/master/Screenshots/Allinonesaver%20(1).jpg" alt="Google Play" height="330" align="middle" data-canonical-src="https://github.com/codemub/All-in-one-saver/blob/master/Screenshots/Allinonesaver%20(1).jpg" 
-style="width: 35%;"></a>
+style="width: 45%;"></a>
 
 
 <h2 dir="auto"><a id="user-content-download" class="anchor" aria-hidden="true" href="#download"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" 
