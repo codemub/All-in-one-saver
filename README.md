@@ -1,7 +1,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/36028424/39695245-83b15cfc-521c-11e8-935c-c4a9cdcfbe90.png">
 <img src="https://github.com/codemub/All-in-one-saver/blob/master/Screenshots/Allinonesaver%20(7).jpg" alt="notepad readme" style="max-width: 40%;"></a></p>
 
-<p dir="auto">All In One Saver app is a free Android mobile application to download all videos and photos from all major social media platform. <a href="https://play.google.com/store/apps/details?id=com.manomar.allinonesaver1&hl=en_IN&gl=US">Get All In One Saver</a>.</p>
+<p dir="auto">All In One Saver app is a free Android mobile application to download all videos and photos from all major social media platform. <a href="https://play.google.com/store/apps/details?id=com.manomar.allinonesaver1&hl=en_IN&gl=US">Available On Google Play Store</a>.</p>
 
 <h2 dir="auto"><a id="user-content-features" class="anchor" aria-hidden="true" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" 
 width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 
