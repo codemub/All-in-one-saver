@@ -50,5 +50,5 @@ width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.
 -2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Download All In One Saver</h2>
 
 
-<a href="https://play.google.com/store/apps/details?id=com.manomar.allinonesaver1&hl=en_IN&gl=US" rel="nofollow"><img src="https://github.com/codemub/All-in-one-saver/blob/master/Screenshots/google-play-badge.png" alt="Google Play" height="100" align="middle" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
+<a href="https://play.google.com/store/apps/details?id=com.manomar.allinonesaver1&hl=en_IN&gl=US" rel="nofollow"><img src="https://github.com/codemub/All-in-one-saver/blob/master/Screenshots/google-play-badge.png" alt="Google Play" height="90" align="middle" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
 style="max-width: 100%;"></a>
