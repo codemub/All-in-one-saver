@@ -44,10 +44,8 @@ width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.
 </ul>
 
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/36028424/39695245-83b15cfc-521c-11e8-935c-c4a9cdcfbe90.png">
-<img src="https://github.com/codemub/All-in-one-saver/blob/master/Screenshots/Allinonesaver%20(1).jpg" alt="notepad readme" style="max-width: 20%;"></a></p>
-
-
+<img src="https://github.com/codemub/All-in-one-saver/blob/master/Screenshots/Allinonesaver%20(1).jpg" alt="Google Play" height="90" align="middle" data-canonical-src="https://github.com/codemub/All-in-one-saver/blob/master/Screenshots/Allinonesaver%20(1).jpg" 
+style="max-width: 100%;"></a>
 
 
 <h2 dir="auto"><a id="user-content-download" class="anchor" aria-hidden="true" href="#download"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" 
