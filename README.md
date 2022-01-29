@@ -45,7 +45,7 @@ width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.
 
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/36028424/39695245-83b15cfc-521c-11e8-935c-c4a9cdcfbe90.png">
-<img src="https://github.com/codemub/All-in-one-saver/blob/master/Screenshots/Allinonesaver%20(1).jpg" alt="notepad readme" style="max-width: 40%;"></a></p>
+<img src="https://github.com/codemub/All-in-one-saver/blob/master/Screenshots/Allinonesaver%20(1).jpg" alt="notepad readme" style="max-width: 20%;"></a></p>
 
 
 
